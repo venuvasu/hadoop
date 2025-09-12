@@ -66,7 +66,7 @@
     <avro.version>1.11.4</avro.version>
 
     <!-- jersey version -->
-    <jersey2.version>2.46</jersey2.version>
+    <jersey2.version>2.47</jersey2.version>
 
     <!-- jaxb version -->
     <jaxb.version>2.3.9</jaxb.version>
